@@ -1,5 +1,5 @@
 # _*_ coding: utf-8 _*_
-from baike_spider import url_manager, html_downloader, \
+from . import url_manager, html_downloader, \
     html_parser, html_outputer
 
 
